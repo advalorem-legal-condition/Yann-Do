@@ -1,0 +1,101 @@
+index.html
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Ad Valorem – Politique de Confidentialité & Conditions d’Utilisation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index,follow">
+  <style>
+    :root { --max: 880px; }
+    html { box-sizing: border-box; }
+    *, *:before, *:after { box-sizing: inherit; }
+    body {
+      margin: 0; padding: 32px 20px; font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6; color: #111; background: #fff;
+    }
+    main { max-width: var(--max); margin: 0 auto; }
+    h1 { font-size: 1.9rem; margin: 0 0 0.25rem; }
+    .sub { color: #555; margin: 0 0 1.25rem; font-size: 0.95rem; }
+    h2 { margin-top: 2rem; font-size: 1.4rem; }
+    h3 { margin-top: 1.25rem; font-size: 1.05rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0 0.6rem 1.2rem; }
+    .card {
+      background: #fafafa; border: 1px solid #eee; border-radius: 12px; padding: 16px 18px; margin: 1rem 0;
+    }
+    .muted { color: #666; font-size: 0.9rem; }
+    footer { margin-top: 2.25rem; padding-top: 1rem; border-top: 1px solid #eee; color: #444; font-size: 0.95rem; }
+    a { color: inherit; text-decoration: underline; }
+  </style>
+</head>
+<body>
+<main role="main">
+  <header>
+    <h1>Ad Valorem – Politique de Confidentialité &amp; Conditions d’Utilisation</h1>
+    <p class="sub">Dernière mise à jour&nbsp;: <time datetime="2025-09-19">19 septembre 2025</time></p>
+  </header>
+
+  <section id="confidentialite">
+    <h2>Politique de confidentialité</h2>
+    <p><strong>Ad Valorem</strong>, assistant virtuel spécialisé dans l’évaluation d’actifs immobiliers professionnels et hébergé sur la plateforme ChatGPT (OpenAI), s’engage à protéger la vie privée de ses utilisateurs dans le respect du RGPD. La présente politique de confidentialité décrit la manière dont sont traitées les données lors de l’utilisation du service.</p>
+
+    <div class="card">
+      <h3>Données traitées</h3>
+      <p>Ad Valorem traite uniquement les données strictement nécessaires à l’estimation immobilière. Cela inclut principalement <strong>l’adresse du bien</strong> et <strong>sa surface</strong> (superficie). Aucune autre donnée personnelle (nom, prénom, coordonnées ou information identifiante) n’est requise ni sollicitée.</p>
+    </div>
+
+    <div class="card">
+      <h3>Finalité du traitement</h3>
+      <p>Les données collectées (adresse, surface) sont utilisées exclusivement pour fournir à l’utilisateur une <strong>estimation indicative</strong> de la valeur du bien immobilier professionnel concerné. Cette estimation est générée à partir de modules d’analyse immobilière intégrés à l’outil. Les données ne sont en aucun cas employées à d’autres fins.</p>
+    </div>
+
+    <div class="card">
+      <h3>Durée de conservation</h3>
+      <p>Les données fournies par l’utilisateur sont traitées uniquement le <strong>temps de la session</strong> de conversation. Une fois l’estimation délivrée et la session terminée, ces données ne sont <strong>pas conservées</strong> par le système. L’adresse et la surface ne sont gardées en mémoire que de façon temporaire, le temps de calculer et de transmettre le résultat.</p>
+    </div>
+
+    <div class="card">
+      <h3>Absence de conservation et de partage</h3>
+      <p>Ad Valorem ne conserve aucune donnée personnelle après la fin de la session. Les informations fournies (adresse, surface) ne sont pas stockées dans une base de données et ne font l’objet d’aucune sauvegarde persistante. Elles ne sont ni revendues ni partagées avec des tiers. Le traitement s’effectue de manière automatisée au sein de la plateforme technique afin de produire l’estimation demandée, sans utilisation ultérieure.</p>
+    </div>
+
+    <div class="card">
+      <h3>Aucune donnée nominative ou sensible</h3>
+      <p>Aucune donnée à caractère personnel nominative n’est traitée (nom, email, téléphone, etc.). Les adresses sont utilisées uniquement comme référence géographique du bien, non pour identifier une personne. Les utilisateurs sont invités à <strong>ne pas communiquer de données sensibles</strong> (santé, opinions politiques, etc.) lors de l’utilisation du service. Toute information de ce type n’est pas nécessaire et n’est pas conservée.</p>
+    </div>
+
+    <p class="muted">Ad Valorem applique les principes de minimisation des données et de limitation de conservation prévus par le RGPD. Pour toute question relative à la confidentialité ou pour exercer vos droits (si applicables), vous pouvez contacter le responsable du service via les coordonnées figurant en bas de page.</p>
+  </section>
+
+  <section id="conditions">
+    <h2>Conditions d’utilisation</h2>
+    <div class="card">
+      <h3>Nature indicative des résultats</h3>
+      <p>L’estimation fournie par Ad Valorem a une <strong>valeur purement indicative</strong>. Il s’agit d’une évaluation automatique générée par intelligence artificielle sur la base des informations fournies par l’utilisateur. Cette estimation <strong>ne constitue ni un avis d’expert officiel, ni une valeur contractuelle juridiquement opposable</strong>. Elle est fournie à titre informatif.</p>
+    </div>
+
+    <div class="card">
+      <h3>Responsabilité de l’utilisateur</h3>
+      <p>L’utilisateur demeure entièrement responsable de l’usage qu’il fait des informations et estimations fournies. Il lui appartient d’interpréter les résultats avec discernement et de ne pas prendre de décisions importantes en se fondant uniquement sur le calcul automatique. L’utilisateur s’engage à fournir des données d’entrée exactes (adresse valide, surface correcte) et à utiliser le service de bonne foi.</p>
+    </div>
+
+    <div class="card">
+      <h3>Absence de garantie</h3>
+      <p>Ad Valorem est proposé «&nbsp;en l’état&nbsp;» en tant qu’outil d’aide à l’évaluation, <strong>sans garantie expresse ou implicite</strong> quant à l’exactitude, la fiabilité ou l’exhaustivité des résultats. Les valeurs estimatives n’ont pas de valeur juridique particulière et <strong>n’engagent pas la responsabilité</strong> d’Ad Valorem ou de ses exploitants quant à leur exactitude ni aux conséquences de leur utilisation. L’utilisateur comprend que les informations fournies ne sont pas nécessairement tenues à jour ni adaptées à une situation spécifique.</p>
+    </div>
+
+    <div class="card">
+      <h3>Recours à un professionnel</h3>
+      <p>Ad Valorem ne se substitue pas à une évaluation immobilière professionnelle. Il est <strong>vivement recommandé</strong> de consulter un expert immobilier, un notaire ou un professionnel qualifié pour <strong>valider ou affiner</strong> toute estimation avant une décision engageante (mise en vente, achat, investissement, etc.).</p>
+    </div>
+
+    <p>En utilisant Ad Valorem, vous acceptez ces conditions. Si vous êtes en désaccord, merci de ne pas utiliser le service. Ces conditions peuvent évoluer&nbsp;; nous vous invitons à les consulter périodiquement.</p>
+  </section>
+
+  <footer>
+    <p>Édité par&nbsp;: <strong>Yann Daubresse</strong> — <a href="mailto:sarldaubresse@gmail.com">sarldaubresse@gmail.com</a></p>
+  </footer>
+</main>
+</body>
+</html>
